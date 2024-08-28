@@ -29,6 +29,8 @@ font-size: 70px;}
 cursor: pointer;}
 body{background-color: indigo;}
 
+.win-square{background-color: #00ff00;}
+
 /* mobile responsive vertical */
 @media screen and (max-width: 320px) {
     .game{
